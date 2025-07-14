@@ -1,1 +1,1 @@
-# This is CI/CD Testing Project
+# CI/CD Testing Project
